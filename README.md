@@ -37,8 +37,8 @@ Tool to export svg files to mobile assets
 - Colors
   * [Material Design Colors](https://material.io/resources/color/)
 - Libraries
-  * [X Material Controls](https://github.com/CamiloDelReal/x_material_controls)
-  * [X Orm](https://github.com/CamiloDelReal/x_orm)
+  * [XMaterialControls](https://github.com/CamiloDelReal/x_material_controls)
+  * [XOrm](https://github.com/CamiloDelReal/x_orm)
 
 ### Screenshots
 <p float="left">
