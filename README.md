@@ -1,7 +1,7 @@
 # SVG Export to Mobile Resource
 Tool to export svg files to mobile assets
 
-<img src="https://github.com/CamiloDelReal/project-weather-x/blob/develop/artwork/icons/logo.png" />
+<img src="https://github.com/CamiloDelReal/svg-export-to-mobile-resources/blob/develop/img/app/logo.svg" />
 
 ### Features
 - Multiples export templates
@@ -42,6 +42,6 @@ Tool to export svg files to mobile assets
 
 ### Screenshots
 <p float="left">
-<img src="https://github.com/CamiloDelReal/svg-export-to-mobile-resources/blob/develop/screenshots/export-view-1.png" width="30%" height="30%" />
-<img src="https://github.com/CamiloDelReal/svg-export-to-mobile-resources/blob/develop/screenshots/settings-view-1.png" width="30%" height="30%" />
+<img src="https://github.com/CamiloDelReal/svg-export-to-mobile-resources/blob/develop/screenshots/export-view-1.png" width="50%" height="50%" />
+<img src="https://github.com/CamiloDelReal/svg-export-to-mobile-resources/blob/develop/screenshots/settings-view-1.png" width="50%" height="50%" />
 </p>
