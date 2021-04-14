@@ -20,11 +20,11 @@ Tool to export svg files to mobile assets
     - RESOURCENAME: String value id for the exported resource
 
 ### Future Features
-- Allow create new templates (UI is missing, the core is ready)
+- Allow to create new templates (UI is missing, the core is ready)
 
 ### Default Templates
 - Android Icon Launcher
-  * Allow export to: ldpi, mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi, web
+  * Allows export to: ldpi, mdpi, hdpi, xhdpi, xxhdpi, xxxhdpi, web
 
 ### Future Default Templates
 - iOS App icon
