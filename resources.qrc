@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/pages/SplashPage.qml</file>
+        <file>qml/pages/HomePage.qml</file>
+        <file>img/app/logo.svg</file>
+        <file>img/app/logo_foreground.svg</file>
+        <file>qml/views/SVGExportView.qml</file>
+        <file>qml/views/TemplateEditionView.qml</file>
+        <file>qml/delegates/TemplateDelegate.qml</file>
+        <file>qml/listeners/SVGExportViewListener.qml</file>
+        <file>img/icons/arrow-left.svg</file>
+        <file>qml/dialogs/OptionsDialog.qml</file>
+        <file>img/icons/check.svg</file>
+        <file>img/icons/tune.svg</file>
+        <file>img/icons/target.svg</file>
+        <file>qml/delegates/ActiveTemplateDelegate.qml</file>
+        <file>img/icons/folder-open.svg</file>
+    </qresource>
+</RCC>
