@@ -96,6 +96,7 @@ XPane {
                 id: imgOriginalVector
                 sourceSize.width: 80
                 sourceSize.height: 80
+                cache: false
                 source: "image://resources/" +
                         (viewModel.filepath.length > 0
                          ? viewModel.filepath
