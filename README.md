@@ -21,6 +21,7 @@ Tool to export svg files to mobile assets
 
 ### Future Features
 - Allow to create new templates (UI is missing, the core is ready)
+- Installer
 
 ### Default Templates
 - Android Icon Launcher
