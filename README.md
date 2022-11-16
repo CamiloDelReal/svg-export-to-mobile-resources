@@ -3,6 +3,9 @@ Tool to export svg files to mobile assets
 
 <img src="https://github.com/CamiloDelReal/svg-export-to-mobile-resources/blob/develop/img/app/logo.svg" />
 
+## This project will not be maintenance anymore
+I am not working for Qt since a while and updates started to become hard after so much changes in Qt 6
+
 ### Features
 - Multiples export templates
   * Name configurations
